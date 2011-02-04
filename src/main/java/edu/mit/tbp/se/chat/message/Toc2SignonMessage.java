@@ -1,6 +1,12 @@
 package edu.mit.tbp.se.chat.message;
 
+import edu.mit.tbp.se.chat.Utils;
+
+import java.math.BigInteger;
+
 public class Toc2SignonMessage extends TOCMessage {
+
+    public static final BigInteger seekret = BigInteger.valueOf(7696L);
 
     // server-level constants
     public static final String LOGIN_SERVER = "login.oscar.aol.com";
@@ -13,6 +19,9 @@ public class Toc2SignonMessage extends TOCMessage {
     public static final String version = "TIC:TBP2";
     public static final String language = "english";
 
+    private final String username;
+    private final String password;
+
     /**
      * Create a new Toc2SignonMessage.
      *
@@ -21,7 +30,8 @@ public class Toc2SignonMessage extends TOCMessage {
      */
     public Toc2SignonMessage(String username,
                              String password) {
-
+        this.username = Utils.normalise(username);
+        this.password = password;
     }
 
     /**
@@ -31,8 +41,7 @@ public class Toc2SignonMessage extends TOCMessage {
      */
     public String roastedPassword() {
         // see the TOC documentation for information on this
-        //TODO
-        throw new UnsupportedOperationException("Not implemented yet!");
+        return Utils.roast(password);
     }
 
     /**
@@ -42,13 +51,14 @@ public class Toc2SignonMessage extends TOCMessage {
      */
     public String generateCode() {
         // see the TOC documentation for information on this
-        //TODO
-        throw new UnsupportedOperationException("Not implemented yet!");
+        return seekret
+                .multiply(BigInteger.valueOf((long)username.charAt(0)))
+                .multiply(BigInteger.valueOf((long)password.charAt(0))).toString();
     }
 
     @Override
     public String toWireFormat() {
-        //TODO
-        throw new UnsupportedOperationException("Not implemented yet!");
+        String temp = "toc_signon login.oscar.aol.com 5159 " + username + " " + password + " " + language + " " + version;
+        return (temp);
     }
 }
