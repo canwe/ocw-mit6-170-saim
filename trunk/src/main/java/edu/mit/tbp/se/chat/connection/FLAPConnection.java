@@ -145,6 +145,14 @@ public class FLAPConnection {
         writeFLAPFrame(frame);
     }
 
+    private void mySleep(long milliseconds) {
+        try {
+            Thread.sleep(milliseconds);
+        } catch (InterruptedException e) {
+            ; // silent catch
+        }
+    }
+
     /**
      * Read a message from the server.
      * <p/>
@@ -160,6 +168,7 @@ public class FLAPConnection {
             // if we get a keep-alive message, ignore it and wait for another
             // message.
             logIncoming("KEEP ALIVE");
+            mySleep(1000);
             return readMessage();
 
         } else if (FLAPFrame.DATA_FRAME_TYPE != frame.frameType) {
@@ -489,6 +498,10 @@ public class FLAPConnection {
 
             return sb.toString();
         }
+    }
+
+    public boolean isConnectionOpened() {
+        return null != socket && null != in && null != out;
     }
 
 

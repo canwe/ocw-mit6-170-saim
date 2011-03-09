@@ -59,46 +59,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MessageLayer.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MessageLayer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/MessageLayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="10" selection-start="2978" selection-end="2978" vertical-scroll-proportion="0.0">
+            <state line="98" column="14" selection-start="3088" selection-end="3088" vertical-scroll-proportion="1.1939163">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServerIMIn2Message.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/ServerIMIn2Message.java">
+      <file leaf-file-name="TOCMessage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TOCMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="44" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TocUserMessage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TocUserMessage.java">
+      <file leaf-file-name="TextUI.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/ui/TextUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="23" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.0">
+            <state line="165" column="18" selection-start="4861" selection-end="4861" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TocInitDoneMessage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TocInitDoneMessage.java">
+      <file leaf-file-name="Toc2SignonMessageTests.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/mit/tbp/se/chat/message/Toc2SignonMessageTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+            <state line="11" column="68" selection-start="443" selection-end="448" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Toc2SendIMMessage.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/Toc2SendIMMessage.java">
+      <file leaf-file-name="FLAPConnection.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/connection/FLAPConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="35" selection-start="622" selection-end="622" vertical-scroll-proportion="0.98176295">
+            <state line="503" column="59" selection-start="14470" selection-end="14470" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -108,24 +108,6 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/TOC.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state line="93" column="47" selection-start="4366" selection-end="4366" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utils.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/Utils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="13" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TOCMessage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TOCMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="27" selection-start="640" selection-end="640" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -149,7 +131,6 @@
         <option value="$PROJECT_DIR$/src/assembly/exe.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
         <option value="$PROJECT_DIR$/src/test/java/edu/mit/tbp/se/chat/message/Toc2SignonMessageTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/MessageLayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/ServerIMIn2Message.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/edu/mit/tbp/se/chat/message/TocMessageTests.java" />
@@ -157,6 +138,8 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/Toc2SignonMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TocInitDoneMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/Toc2SendIMMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/connection/FLAPConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/MessageLayer.java" />
       </list>
     </option>
   </component>
@@ -180,6 +163,10 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ocw.mit.saim" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
       </PATH>
     </treeState>
   </component>
@@ -190,7 +177,7 @@
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -216,9 +203,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Favorites" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -350,9 +334,42 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="saim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="saim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,16 +387,16 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="edu.mit.tbp.se.chat" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Toc2SignonMessageTests">
+  <component name="RunManager" selected="Application.TextUI">
     <configuration default="false" name="Toc2SignonMessageTests" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="saim" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -461,24 +478,6 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -504,6 +503,24 @@
       <envs />
       <properties />
       <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -555,6 +572,22 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
+    <configuration default="false" name="TextUI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.mit.tbp.se.chat.ui.TextUI" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="--log=INFO test x5435" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="saim" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="false" name="jar assembly" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings">
@@ -601,9 +634,10 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Toc2SignonMessageTests" />
-      <item index="1" class="java.lang.String" itemvalue="Maven.jar assembly" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.TextUI" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Toc2SignonMessageTests" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.jar assembly" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -615,7 +649,6 @@
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="LAST_MERGED_REVISION" />
-    <option name="UPDATE_RUN_STATUS" value="false" />
     <option name="MERGE_DRY_RUN" value="false" />
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
     <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
@@ -624,6 +657,7 @@
     <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
     <configuration useDefault="true">C:\Documents and Settings\Admin\Application Data\Subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
@@ -657,24 +691,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1032" height="728" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07267144" sideWeight="0.6712329" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32548618" sideWeight="0.6712329" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31849316" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45034248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4053224" sideWeight="0.31849316" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09007165" sideWeight="0.5496575" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4053224" sideWeight="0.5496575" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45034248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36472604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -692,6 +726,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
@@ -715,24 +750,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/ui/TextUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="251" column="31" selection-start="7346" selection-end="7346" vertical-scroll-proportion="3.5355933" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.6.0_23/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="683" column="16" selection-start="24720" selection-end="24720" vertical-scroll-proportion="1.2527076" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/AIMErrorException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="23" selection-start="229" selection-end="230" vertical-scroll-proportion="0.26103646" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/mit/tbp/se/chat/message/Toc2SignonMessageTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="539" selection-end="539" vertical-scroll-proportion="0.4857143" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/ServerSignOnMessage.java">
@@ -740,73 +760,94 @@
         <state line="2" column="13" selection-start="51" selection-end="51" vertical-scroll-proportion="0.065259114" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/Toc2SignonMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="23" selection-start="1422" selection-end="1422" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="13" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TocUserMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="23" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TOCMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="27" selection-start="640" selection-end="640" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/TOC.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="47" selection-start="4366" selection-end="4366" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TocInitDoneMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/MessageLayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="10" selection-start="2978" selection-end="2978" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/ServerIMIn2Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="44" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/TOC1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="26" selection-start="5437" selection-end="5437" vertical-scroll-proportion="0.35738832">
-          <folding />
-        </state>
+        <state line="112" column="26" selection-start="5437" selection-end="5437" vertical-scroll-proportion="0.35738832" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/TOC2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="9" selection-start="4390" selection-end="4394" vertical-scroll-proportion="6.3676977">
+        <state line="109" column="9" selection-start="4390" selection-end="4394" vertical-scroll-proportion="6.3676977" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="13" selection-start="965" selection-end="965" vertical-scroll-proportion="0.05279503">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/Toc2SendIMMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="35" selection-start="622" selection-end="622" vertical-scroll-proportion="0.98176295">
+        <state line="19" column="35" selection-start="622" selection-end="622" vertical-scroll-proportion="0.7823529">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TocInitDoneMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.52974504">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TocUserMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="23" selection-start="1601" selection-end="1601" vertical-scroll-proportion="2.7">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/Toc2SignonMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="18" selection-start="1713" selection-end="1713" vertical-scroll-proportion="0.63188976">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/TOC.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="47" selection-start="4366" selection-end="4366" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/ui/TextUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="18" selection-start="4861" selection-end="4861" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/TOCMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/ServerIMIn2Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="51" selection-end="51" vertical-scroll-proportion="0.13877551">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/connection/FLAPConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="503" column="59" selection-start="14470" selection-end="14470" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/mit/tbp/se/chat/message/Toc2SignonMessageTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="68" selection-start="443" selection-end="448" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/mit/tbp/se/chat/message/MessageLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="14" selection-start="3088" selection-end="3088" vertical-scroll-proportion="1.1939163">
           <folding />
         </state>
       </provider>

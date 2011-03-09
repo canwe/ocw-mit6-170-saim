@@ -1,5 +1,6 @@
 package edu.mit.tbp.se.chat.message;
 
+import edu.mit.tbp.se.chat.Utils;
 import edu.mit.tbp.se.chat.connection.FLAPConnection;
 import edu.mit.tbp.se.chat.connection.SignOnException;
 
@@ -52,7 +53,7 @@ public class MessageLayer {
 
         // * Client sends TOC "toc_signon" message
         // * if login fails TOC drops client's connection
-        //   else TOC sends client SIGN_ON reply
+        // * else TOC sends client SIGN_ON reply
         // * if Client doesn't support version it drops the connection
         //
         // [BEGIN OPTIONAL]
@@ -61,6 +62,16 @@ public class MessageLayer {
         //
         // * Client sends TOC toc_init_done message
 
+        String nname = Utils.normalise(username);
+        Toc2SignonMessage som = new Toc2SignonMessage(nname, password);
+        if (!connection.isConnectionOpened()) {
+            connection.connect(nname);
+        }
+        sendMessage(som);
+        String response = connection.readMessage();
+        if (!"SIGN_ON".equals(response)) {
+            connection.disconnect();
+        }
     }
 
     /**
@@ -72,6 +83,7 @@ public class MessageLayer {
     public void sendMessage(TOCMessage msg)
             throws IOException {
         // fill in your code here
+        connection.writeMessage(msg.toWireFormat());
     }
 
     /**
